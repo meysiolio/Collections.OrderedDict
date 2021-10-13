@@ -5,7 +5,7 @@ You have a list of ***N*** items together with their prices that consumers bough
 Your task is to print each item_name and net_price in order of its first occurrence.  
 
 ##### item_name = Name of the item.  
-net_price = Quantity of the item sold multiplied by the price of each item.  
+##### net_price = Quantity of the item sold multiplied by the price of each item.  
 
 **Input Format**
 
