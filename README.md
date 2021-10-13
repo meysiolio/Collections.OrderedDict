@@ -4,8 +4,8 @@ You are the manager of a supermarket.
 You have a list of ***N*** items together with their prices that consumers bought on a particular day.  
 Your task is to print each item_name and net_price in order of its first occurrence.  
 
-<font size="1">item_name = Name of the item.</font>  
-<font size="1">net_price = Quantity of the item sold multiplied by the price of each item.</font>  
+##### item_name = Name of the item.  
+net_price = Quantity of the item sold multiplied by the price of each item.  
 
 **Input Format**
 
@@ -39,11 +39,11 @@ CANDY 20
 
 **Explanation**
 
-BANANA FRIES: Quantity bought: **1**, Price: **12**
-Net Price: **12**
-POTATO CHIPS: Quantity bought: **2**, Price: **30**
-Net Price: **60**
-APPLE JUICE: Quantity bought: **2**, Price: **10**
-Net Price: **20**
-CANDY: Quantity bought: **4**, Price: **5**
-Net Price: **20**
+BANANA FRIES: Quantity bought: **1**, Price: **12**  
+Net Price: **12**  
+POTATO CHIPS: Quantity bought: **2**, Price: **30**  
+Net Price: **60**  
+APPLE JUICE: Quantity bought: **2**, Price: **10**  
+Net Price: **20**  
+CANDY: Quantity bought: **4**, Price: **5**  
+Net Price: **20**  
